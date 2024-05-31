@@ -1,0 +1,308 @@
+/* Tonoli Nicola 4AI SITONAPOLI.css */		
+body{
+	background-image: url(img/sfondo.jpg) ;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+
+.menu{
+	padding: 12px;
+	border: 4px;
+	background-color: #add8e6;
+	color:#2f4f4f;
+	text-align:centre;
+	font-size:30px;
+	
+}
+
+.blomb{
+	font-family:lucida bright;
+	color: white;
+	position:absolute;
+	top:445px;
+	left:420px;
+	text-shadow:2px 2px #2f4f4f;
+	
+}
+.blomb2{
+	text-align: center;
+	font-style:bold;
+	background-color: #C0392B;
+	color: black;
+	margin:0;
+	padding:0;
+	
+}
+.np{
+	 display: block;
+	 font-size:25px;
+  color: white;
+  text-align: center;
+  padding: 18px 18px;
+  text-decoration: none;
+}
+.np:hover{
+	 background-color: #111;
+}
+.supa{
+	  float: left;
+}
+.tocs{
+	  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.tocis{
+	  list-style-type: none;
+  margin: 0;
+  display: block;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.tocis a{
+	display:inline-block;
+}
+.tocsi{
+	position:fixed;
+	left:1300px;
+	top:55px;
+}
+
+.timb{
+	text-align: center;
+	font-size:100px;
+	font-family: didot;
+	line-height: 525px;
+    height: 240px;
+	color:white;
+	text-shadow:2px 2px #4169E1;
+}
+.timb3{
+	text-align: center;
+	
+	font-size:70px;
+	font-family: didot;
+	line-height: 525px;
+    height: 240px;
+	color:black;
+	
+}
+.timb1{
+	text-align: center;
+	position: relative;
+	font-size:100px;
+	font-family: didot;
+	line-height: 225px;
+    bottom: 50px;
+	color:white;
+	text-shadow:2px 2px red;
+}
+.scritt{
+	font-size:24px;
+	text-shadow:2px 2px #000000;
+	width: 400px;
+ height: 300px;
+ padding: 10px;
+ position: absolute;
+ right: 75px;
+ bottom: -300px;
+ left: 250px;	
+}
+.scrit{
+	font-size:25px;
+	text-shadow:2px 2px #000000;
+	width: 400px;
+ height: 300px;
+ padding: 10px;
+ position: absolute;
+ right: 5px;
+ bottom: -300px;
+ left: 1150px;
+ 
+}
+.scri{
+	text-align: center;
+	font-family: didot;
+	color: white;
+	font-size: 40px;
+}
+.scro{
+	text-align: right;
+	font-family: didot;
+	color: white;
+	font-size: 40px;
+	
+}
+.desc{
+	color:white;
+	position: absolute;
+ right: -50px;
+ bottom: -50px;
+ left: -75px;
+ top: 140px;
+ height: 200px;
+}
+.sfo{
+	background-image: url(img/sfo.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+	
+}
+.sfo:hover{
+	opacity:0,5;
+	
+}
+.solid{
+	border-style: solid;
+	outline-color:lightblue;
+	border-width: 5px;
+	position:absolute; 
+    right:12%;
+	bottom:100px;
+	 max-width: 500px;
+  margin: 0 auto;
+}
+.solidd{
+	border-style: solid;
+	outline-color:lightblue;
+	border-width: 4px;
+	position:absolute; 
+    right:46%;
+	  border: 2px solid black;
+  border-radius: 12px;
+  padding: 5px;
+	bottom: 10%;
+	 max-width: 300px;
+  margin: 0 auto;
+}
+.dwlc{
+	color: green;
+	font-size:20px;
+	text-align:center;
+	
+}
+.sold{
+	border-style: solid;
+	outline-color:lightblue;
+	border-width: 5px;
+	position:absolute; 
+    right:57%;
+	bottom:100px;
+}
+.table{
+	
+border: 2px solid black;
+border-collapse: none;
+border-spacing: 5px;
+
+}
+
+.titulo{
+	text-align:center;
+	font-size:50px;
+	font-style:bold;
+	position:absolute;
+	top:100px;
+	right: 50%;
+}	
+.titulo1{
+	text-align:center;
+	font-size:60px;
+	font-style:bold;
+	position:absolute;
+	top:100px;
+	right: 42%;
+}	
+.table{
+	height: 130px;
+  width: 100px; 
+  position: static; 
+}
+.unit{
+	text-align:center;
+	font-size:25px;
+}
+
+
+.pro{
+	padding: 12px;
+	border: 5px;
+	background-color: lightblue;
+	color:black;
+	text-align:right;
+	position:relative;
+	top:250px;
+	
+}
+
+.tablet{
+	
+	height: 500px;
+    width: 1000px; 
+    /*position: relative; */
+	top: 170px;
+	text-align:center;
+}
+.ifot{
+	text-align:center;
+	font-size:30px;
+	font-style:bold;
+	position:absolute;
+	top:500px;
+	right: 1000px;
+}
+
+#act{
+	background-color:#C0392B;
+}
+
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  font-weight: bold;
+  font-size: 30px;
+}
+input{
+	font-size:20px;
+}
+.popup {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.popup-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
